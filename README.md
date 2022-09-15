@@ -1,1 +1,1 @@
-# smolyak-chebpts-explain
+# smolyak-jupyter-explain
